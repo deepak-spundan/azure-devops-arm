@@ -21,7 +21,7 @@
             "value": "BOBSanjay#123"
         },
         "modulesUrl": {
-            "value": "https://raw.githubusercontent.com/spundanlabs/azure-devops-arm/master/dsc-extension-iis-server-windows-vm/ContosoWebsite.ps1.zip"
+            "value": "https://github.com/spundanlabs/azure-devops-arm/blob/feature/dcs-iis/dsc-extension-iis-server-windows-vm/ContosoWebsite.ps1.zip?raw=true"
         },
         "configurationFunction": {
             "value": "ContosoWebsite.ps1\\ContosoWebsite"
