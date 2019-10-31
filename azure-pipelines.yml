@@ -17,7 +17,7 @@ steps:
     subscriptionName: 'd535d714-e3f4-4e02-9456-7b1551d77645'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'NCPL-Demo-Group'
-    location: 'South India'
+    location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/spundanlabs/azure-devops-arm/feature/dcs-iis/dsc-extension-iis-server-windows-vm/azuredeploy.json'
     csmParametersFileLink: 'https://raw.githubusercontent.com/spundanlabs/azure-devops-arm/feature/dcs-iis/dsc-extension-iis-server-windows-vm/azuredeploy.parameters.json'
