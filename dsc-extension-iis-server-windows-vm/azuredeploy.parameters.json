@@ -12,7 +12,7 @@
             "value": "Standard_A2"
         },
         "imageSKU": {
-            "value": "2012-R2-Datacenter"
+            "value": "2016-Datacenter-Server-Core"
         },
         "location": {
             "value": "Central US"
