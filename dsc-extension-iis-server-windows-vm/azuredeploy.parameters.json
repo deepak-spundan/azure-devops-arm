@@ -9,10 +9,13 @@
             "value": "DSC-IIS-VM"
         },
         "vmSize": {
-            "value": "Standard_A3"
+            "value": "Standard_A2"
         },
         "imageSKU": {
-            "value": "2012-Datacenter"
+            "value": "2012-R2-Datacenter"
+        },
+        "location": {
+            "value": "Central US"
         },
         "adminUsername": {
             "value": "986532147854"
