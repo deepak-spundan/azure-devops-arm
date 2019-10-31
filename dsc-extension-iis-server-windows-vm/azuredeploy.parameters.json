@@ -9,7 +9,7 @@
             "value": "DSC-IIS-VM"
         },
         "vmSize": {
-            "value": "Standard_A2"
+            "value": "Standard_A3"
         },
         "imageSKU": {
             "value": "2012-R2-Datacenter"
